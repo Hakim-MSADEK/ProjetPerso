@@ -1,0 +1,10 @@
+table {
+    width: 100%; /* Définir la largeur de la table pour occuper la largeur de son conteneur */
+  }
+  
+  th {
+    text-align: center; /* Centrer le texte horizontalement */
+    vertical-align: middle; /* Centrer le texte verticalement */
+    font-size: 24px; /* Définir la taille de la police */
+  }
+  

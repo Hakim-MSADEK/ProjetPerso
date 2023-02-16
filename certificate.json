@@ -1,0 +1,14 @@
+{
+    "certificates": [
+        {
+            "subject": "DESKTOP-LBVLUVE",
+            "thumbprint": "f13abbaa4a6566edee5f544897c935fd412697fc",
+            "expiry": "2024-02-15 21:48:06"
+        },
+        {
+            "subject": "DESKTOP-LBVLUVE",
+            "thumbprint": "12aeab596d763bb814a3ed63f931292ea3ad71dd",
+            "expiry": "2023-06-09 21:58:40"
+        }
+    ]
+}
